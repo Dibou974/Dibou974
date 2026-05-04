@@ -25,7 +25,7 @@ Passionate about AI, reinforcement learning, and building things that matter.
 
 ---
 
-## Projects
+## Main Projects
 
 ### Kemu `Active`
 Software company building web, mobile & desktop products — from SaaS to custom client solutions.  
