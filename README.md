@@ -35,7 +35,7 @@ Software company building web, mobile & desktop products — from SaaS to custom
 Reinforcement learning agent trained to focus objects and items in Minecraft using DQN, YOLO object detection & real-time screen capture.  
 `PyTorch` `YOLO` `Python` `DQN`
 
-### Dating App — La Réunion `In progress`
+### Dating App - La Réunion `In progress`
 Mobile dating app adapted to local culture, with a fruit-based matching system.  
 `Expo` `React Native` `Supabase` `Redis`
 
