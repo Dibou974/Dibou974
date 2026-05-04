@@ -32,7 +32,7 @@ Software company building web, mobile & desktop products — from SaaS to custom
 `Next.js` `TypeScript` `React Native` `Prisma` `Tailwind CSS`
 
 ### Minecraft RL Agent `Research`
-Reinforcement learning agent trained to play Minecraft using DQN, YOLO object detection & real-time screen capture.  
+Reinforcement learning agent trained to focus objects and items in Minecraft using DQN, YOLO object detection & real-time screen capture.  
 `PyTorch` `YOLO` `Python` `DQN`
 
 ### Dating App — La Réunion `In progress`
